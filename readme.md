@@ -1,0 +1,2 @@
+### editorconfig
+> my configs
